@@ -22,7 +22,7 @@ the project consists of a simple classic "tic-tac-toe" game implemented in rust.
 
 1.  clone the repository
     ```sh
-    git clone https://github.com/Kk3tillen/tic-toc-toe.git
+    git clone https://github.com/Kk3tillen/tic-tac-toe.git
     cd tic-tac-toe-rust
     ```
 2.  run with cargo
